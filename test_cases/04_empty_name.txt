@@ -1,0 +1,2 @@
+Scenario: Empty u_name
+Expected: onBefore script sets ignore=true and the row is skipped.

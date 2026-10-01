@@ -1,0 +1,2 @@
+Scenario: Multiple valid records
+Expected: Every valid row is imported without data loss.

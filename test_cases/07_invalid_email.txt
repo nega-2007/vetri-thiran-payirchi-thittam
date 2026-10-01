@@ -1,0 +1,2 @@
+Scenario: Invalid email format
+Expected: Record is rejected, skipped, or flagged according to configured validation.

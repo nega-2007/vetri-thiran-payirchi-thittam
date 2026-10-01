@@ -1,0 +1,6 @@
+1. Upload the spreadsheet to ServiceNow Import Set.
+2. Select the target table.
+3. Create/select the Transform Map.
+4. Configure source-to-target field mappings.
+5. Run the Transform.
+6. Verify imported records and logs.

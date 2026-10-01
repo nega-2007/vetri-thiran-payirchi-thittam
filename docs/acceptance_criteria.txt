@@ -1,0 +1,6 @@
+Acceptance Criteria:
+1. No data loss for valid records.
+2. Correct source-to-target mapping.
+3. Invalid records are handled safely.
+4. No unintended duplicates.
+5. Import and transform results can be verified from logs.

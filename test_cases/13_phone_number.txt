@@ -1,0 +1,2 @@
+Scenario: Valid 10-digit phone number
+Expected: Phone value is transferred with the intended digits.

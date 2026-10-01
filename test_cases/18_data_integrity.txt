@@ -1,0 +1,2 @@
+Scenario: Source vs target comparison
+Expected: All mapped values match between spreadsheet and target records.

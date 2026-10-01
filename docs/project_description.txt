@@ -1,0 +1,8 @@
+Project Title:
+Import Data Using Transform Maps (Spreadsheet)
+
+Objective:
+Import spreadsheet data into a ServiceNow target table through an Import Set and Transform Map.
+
+Technologies:
+ServiceNow, Import Sets, Transform Maps, JavaScript, CSV/Spreadsheet.

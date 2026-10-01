@@ -1,0 +1,2 @@
+Scenario: Valid spreadsheet import
+Expected: All valid rows are transformed and inserted successfully.

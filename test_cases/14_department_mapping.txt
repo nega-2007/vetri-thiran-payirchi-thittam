@@ -1,0 +1,2 @@
+Scenario: Department mapping
+Expected: Source department value appears in the correct target field.

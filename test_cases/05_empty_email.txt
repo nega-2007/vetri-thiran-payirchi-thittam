@@ -1,0 +1,2 @@
+Scenario: Empty email
+Expected: Target validation rules handle the record correctly; no incorrect value is created.

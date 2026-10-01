@@ -1,0 +1,2 @@
+Scenario: Verify import and transform logs
+Expected: Processed, ignored, failed and transformed rows are traceable.

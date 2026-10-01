@@ -1,0 +1,2 @@
+Scenario: Transform completion
+Expected: onAfter script executes for successfully transformed records.

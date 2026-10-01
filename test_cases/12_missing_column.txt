@@ -1,0 +1,2 @@
+Scenario: Expected source column is missing
+Expected: Import reports the mapping/data issue and does not populate missing values incorrectly.

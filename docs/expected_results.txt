@@ -1,0 +1,7 @@
+Expected Results:
+- Valid rows are imported.
+- Source fields map correctly to target fields.
+- Empty-name rows are skipped.
+- Invalid data follows validation rules.
+- Duplicate behavior follows configured Transform Map rules.
+- Import logs provide traceability.

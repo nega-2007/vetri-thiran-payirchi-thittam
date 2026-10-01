@@ -1,0 +1,2 @@
+Scenario: Duplicate records
+Expected: Duplicate handling follows the configured Transform Map/coalesce rules.

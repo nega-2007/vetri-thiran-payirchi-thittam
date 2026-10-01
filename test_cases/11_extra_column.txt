@@ -1,0 +1,2 @@
+Scenario: Spreadsheet contains an unmapped extra column
+Expected: Import completes and unrelated target fields remain unchanged.

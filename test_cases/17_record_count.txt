@@ -1,0 +1,2 @@
+Scenario: Record count verification
+Expected: Number of successfully created records matches the number of valid source rows.

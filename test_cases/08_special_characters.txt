@@ -1,0 +1,2 @@
+Scenario: Names containing special characters
+Expected: Characters are preserved without corruption.

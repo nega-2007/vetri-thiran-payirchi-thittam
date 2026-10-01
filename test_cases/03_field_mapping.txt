@@ -1,0 +1,2 @@
+Scenario: Verify field mapping
+Expected: u_name, u_email, u_department and u_phone map to the correct target fields.

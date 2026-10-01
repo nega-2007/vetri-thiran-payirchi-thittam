@@ -1,0 +1,2 @@
+Scenario: Completely blank spreadsheet row
+Expected: Blank row does not create an unwanted target record.

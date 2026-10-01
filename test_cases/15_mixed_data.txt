@@ -1,0 +1,2 @@
+Scenario: Valid and invalid rows together
+Expected: Valid rows are transformed; invalid/ignored rows are handled separately.

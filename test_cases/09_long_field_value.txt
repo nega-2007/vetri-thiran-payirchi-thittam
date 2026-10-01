@@ -1,0 +1,2 @@
+Scenario: Field value exceeds target length
+Expected: Record follows configured field-length validation without unexpected corruption.
